@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.subscribe-bg {
+  background-image: linear-gradient(240deg, #e441ff 25%, #1901f8, #00b3ff);
+  background-blend-mode: multiply;
+}
